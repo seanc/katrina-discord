@@ -1,0 +1,1 @@
+**Before** you look at any of the code in this repo, please understand that this is all PoC and should not be considered to be final or production code. I run this bot in a private environment for simple needs as that is what it best serves. If you are looking for more complex bots, there are dozens of them out there for your picking.
