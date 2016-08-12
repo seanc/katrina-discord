@@ -22,4 +22,4 @@ class MathCommand(Command):
             parsed = str(parser.parse(expr).evaluate({}))
             await self.client.send_message(message.channel, parsed)
         except:
-            await self.client.send_message(message.channel, message.author.mention + ' An error occurred while trying to evaluate your esexpression')
+            await self.client.send_message(message.channel, message.author.mention + ' An error occurred while trying to evaluate your expression')
